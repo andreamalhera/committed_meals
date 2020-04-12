@@ -1,4 +1,5 @@
-# committed_meals
+# Committed Meals
+Hello and welcome to my food repository. But this is much more than food. :D I want to have the ultimate personal cookbook, where version control is not a fuzz. Using git grep functions all recipes can be searched by labels, ingredients, categories, preparation method and much more! (So excited right now...)
 
 # TODO ideas (because I have many): 
 * Add ideas and research about nutritional value from e.g. Dr. Greg, Logi Methode, etc.
