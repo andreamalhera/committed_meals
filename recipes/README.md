@@ -63,3 +63,6 @@ This should be:
 1.  The changes will show up on <https://github.com/andreamalhera/committed_meals/tree/master/recipes> in a few minutes.
     Don't worry if something goes wrong, github keeps a copy of every change,
     so there's nothing you can do that can't be undone.
+    
+## Pendings
+* TODO: Add portion measurements to recipes
