@@ -77,7 +77,7 @@ This should be:
     so there's nothing you can do that can't be undone.
     
 ## Pendings
-* TODO: Add recipes from: https://drive.google.com/file/d/1kAtf94mUsLOCO4gIeD0WJWZGu_byKbwD/view
+* TODO: Add recipes from [recipe book scan](https://drive.google.com/file/d/1kAtf94mUsLOCO4gIeD0WJWZGu_byKbwD/view)
 * TODO: Add portion measurements to recipes
 * TODO: Add "Goes well with section" 
 * TODO: Add some sort of labels: e.g. {"bowls", \<origin\>, \<ingredient season\>, \<prep duration\>, "good for meal prep", etc.}
