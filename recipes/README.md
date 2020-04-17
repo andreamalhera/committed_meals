@@ -79,4 +79,4 @@ This should be:
 ## Pendings
 * TODO: Add portion measurements to recipes
 * TODO: Add "Goes well with section" 
-* TODO: Add some sort of labels: e.g. {"bowls", <origin>, <ingredient season>, <prep duration>, "good for meal prep", etc.}
+* TODO: Add some sort of labels: e.g. {"bowls", \<origin\>, \<ingredient season\>, \<prep duration\>, "good for meal prep", etc.}
