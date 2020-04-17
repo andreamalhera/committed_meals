@@ -9,8 +9,8 @@ These recipes are licensed [Creative Commons Attribution 4.0 International Licen
 1.  Click the "new file" button at the top right: ![](../images/file_buttons.png)
 
 1.  In the "name your file..." box type the name of the recipe ![](../images/file_name.png)
+
     Name should be:
-    
     * brief
     * all in lower case
     * use `_` to separate words
