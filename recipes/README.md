@@ -2,8 +2,14 @@
 These recipes are licensed [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
 ## Structure
+* Breakfast
+    * Smoothies
+* Appetizer
 * Salads
-* Woks and pans
+    * Dressings & vinagrettes
+* Woks & pans
+* Soups & stews
+* Sweets 
 
 
 ## Contributing recipes
@@ -73,4 +79,4 @@ This should be:
 ## Pendings
 * TODO: Add portion measurements to recipes
 * TODO: Add "Goes well with section" 
-* TODO: Add some sort of labels: e.g. {bowls, <origin>, <ingredient season>, etc.}
+* TODO: Add some sort of labels: e.g. {"bowls", <origin>, <ingredient season>, <prep duration>, "good for meal prep", etc.}
