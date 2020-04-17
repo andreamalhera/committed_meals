@@ -1,12 +1,12 @@
 # Ceviche à la Christa
 Guatemalan ceviche
 
-* vegan shrimps
-* diced tomatoes
+* 400g vegan shrimps
+* 3 diced tomatoes
 * 1 chopped onion
 * coriander
 * lime juice
-* diced avocado
+* 1 diced avocado
 * worcester sauce
 * salt and pepper
 * soda crackers for the side
@@ -19,3 +19,4 @@ Serve with crackers on the side and enjoy!
 
 #### Pendings:
 * TODO: Try champignions instead of vegan shrimp
+* TODO: Get exact quantities from Christa
