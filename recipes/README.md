@@ -1,4 +1,10 @@
+## License
 These recipes are licensed [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+
+## Structure
+* Salads
+* Woks and pans
+
 
 ## Contributing recipes
 ### To create a new recipe
@@ -66,3 +72,5 @@ This should be:
     
 ## Pendings
 * TODO: Add portion measurements to recipes
+* TODO: Add "Goes well with section" 
+* TODO: Add some sort of labels: e.g. {bowls, <origin>, <ingredient season>, etc.}
