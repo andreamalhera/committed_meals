@@ -13,7 +13,7 @@ These recipes are licensed [Creative Commons Attribution 4.0 International Licen
 * Think if creating frontend and sepparating recipes makes sense
 
 # Inspired by 
-* https://github.com/hadley/recipes/tree/master/recipes
+* https://github.com/hadley/recipes
 * https://github.com/vabene1111/recipes
 
 
