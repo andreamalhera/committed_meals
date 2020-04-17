@@ -1,7 +1,7 @@
 These recipes are licensed [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
-# Contributing recipes
-## To create a new recipe
+## Contributing recipes
+### To create a new recipe
 
 1.  Navigate to the recipes directory, and then the category where you
     want to add a recipe.
@@ -25,10 +25,16 @@ These recipes are licensed [Creative Commons Attribution 4.0 International Licen
     * listed on
     * a line that starts with an asterisk
     
-    The method is listed below.
+    The cooking procedure is listed below.
+    
+    #### Inspired by: (optional)
+    * Each source is listed here
+    
+    #### Pendings: (optional)
+    * Each TODO or furhter thought goes here if necessary
     ```
     
-    You can click preview to check that everything is formatted correctly.
+    You can click `Preview Changes` to check that everything is formatted correctly.
 
 1.  Write "Adding new recipe" in the (small) first box under 
     "commit changes". Leave the (large) second box blank.
@@ -39,7 +45,7 @@ These recipes are licensed [Creative Commons Attribution 4.0 International Licen
     Don't worry if something goes wrong, github keeps a copy of every change,
     so there's nothing you can do that can't be undone.
 
-## To edit a recipe
+### To edit a recipe
 
 1.  Make sure you're logged in to github.
  
