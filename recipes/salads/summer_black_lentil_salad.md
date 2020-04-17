@@ -1,4 +1,4 @@
-# Black lentil salad 
+# Summer Black Lentil Salad 
 
 * cooked black lentils
 * diced tomatoes
