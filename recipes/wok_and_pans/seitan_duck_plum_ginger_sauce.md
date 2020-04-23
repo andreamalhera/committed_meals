@@ -21,4 +21,5 @@ Add 1/4 tsp. salt and season to taste with pepper. After the oven let seitan res
 #### Inspired by: 
 * Based on "Knusprige Koreanische Ente in Pflaumen-Ingwersoße mit Cashewreis und Zuckerschoten" from Kochhaus, Munich
 
-#### Pendings: (optional)
+#### Pendings:
+* XXX: Where do I find seitan duck style? 
