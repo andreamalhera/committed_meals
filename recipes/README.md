@@ -4,11 +4,10 @@ These recipes are licensed [Creative Commons Attribution 4.0 International Licen
 ## Structure
 * Breakfast
     * Smoothies
-* Appetizer
-* Salads
+* [Salads & Appetizers](salads_and_appetizers)
     * Dressings & vinagrettes
-* Woks & pans
-* Soups & stews
+* [Woks & Pans](woks_and_pans)
+* Soups & Stews
 * Sweets 
 
 
