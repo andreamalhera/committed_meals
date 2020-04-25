@@ -1,10 +1,10 @@
 # Corean Seitan "Duck" with Plum Ginger Sauce with Cashew Rice and Snow Peas
-For 2 people, 35min preparation time 
+For 2 people, 35 min preparation time 
 
 * 1 portion seitan duck-style 
 * 1 chopped shallot
 * 1 chopped garlic clove
-* 3 sliced half plums (approx. 0,5cm width)
+* 3 sliced half plums (approx. 0,5 cm width)
 * 25 g grinded ginger piece
 * 20 halfed snow peas
 * 20 g coarse chopped cashews
