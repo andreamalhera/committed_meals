@@ -1,7 +1,7 @@
 # Oriental Salad
 
 * grilled [chicken](https://github.com/andreamalhera/committed_meals/blob/master/how_to_replace.md#chicken) slices
-* Mango dices
+* mango dices
 * grated grana padano cheese
 * blue grapes
 * almond sticks
