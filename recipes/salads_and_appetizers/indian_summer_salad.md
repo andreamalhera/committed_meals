@@ -2,7 +2,7 @@
 
 * grilled oyster mushrooms cut
 * spring onion in fine slices
-* goat cheese dices
+* sheep cheese dices
 * cucumber dices
 * tomatoes dices
 * lettuce
@@ -16,5 +16,5 @@ Wash and cut lettuce, mix lettuce and rest of the dry ingredients in a bowl. Add
 
 #### Pendings: 
 * TODO: Figure out ingredient measurements
-* TODO: Veganize: Find replacement for goat cheese
+* TODO: Veganize: Find replacement for sheep cheese
 * TODO: Write dressing recipe
