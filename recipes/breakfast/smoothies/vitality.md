@@ -4,7 +4,7 @@
 * fresh basil
 * mango
 * orange
-* plant-based joghurt (soy, oatmeal or coconut)
+* [joghurt](https://github.com/andreamalhera/committed_meals/blob/master/how_to_replace.md#joghurt)
 * honey
 
 Mix all ingredients in the mixer/smoothie maker with some water. Serve and enjoy!
