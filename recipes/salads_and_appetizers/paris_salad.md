@@ -4,6 +4,7 @@
 * walnuts
 * colorful peppers (Paprika)
 * seedless blue grapes
+* lettuce
 * sweet honey mustard dressing
 
 Wash and cut lettuce, mix lettuce and rest of the dry ingredients in a bowl. Add dressing, mix, serve and enjoy fresh!
