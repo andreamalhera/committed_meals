@@ -5,7 +5,7 @@ These recipes are licensed [Creative Commons Attribution 4.0 International Licen
 * [Breakfast](https://github.com/andreamalhera/committed_meals/tree/master/recipes/breakfast)
     * [Smoothies](https://github.com/andreamalhera/committed_meals/tree/master/recipes/breakfast/smoothies)
 * [Salads & Appetizers](salads_and_appetizers)
-    * Dressings & vinagrettes
+    * [Dressings & vinagrettes](https://github.com/andreamalhera/committed_meals/tree/master/recipes/salads_and_appetizers/dressing_and_vinagrettes)
 * [Woks & Pans](woks_and_pans)
 * Soups & Stews
 * [Grill](grill)
