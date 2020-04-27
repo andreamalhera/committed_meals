@@ -42,7 +42,10 @@ This should be:
     * Each source is listed here
     
     #### Pendings: (optional)
-    * Each TODO or furhter thought goes here if necessary
+    * Each TODO or further thought goes here if necessary
+    
+    #### Notes: (optional)
+    * Each note goes here if necessary
     ```
     
     You can click `Preview Changes` to check that everything is formatted correctly.
