@@ -2,8 +2,8 @@
 These recipes are licensed [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
 ## Structure
-* Breakfast
-    * Smoothies
+* [Breakfast](https://github.com/andreamalhera/committed_meals/tree/master/recipes/breakfast)
+    * [Smoothies](https://github.com/andreamalhera/committed_meals/tree/master/recipes/breakfast/smoothies)
 * [Salads & Appetizers](salads_and_appetizers)
     * Dressings & vinagrettes
 * [Woks & Pans](woks_and_pans)
