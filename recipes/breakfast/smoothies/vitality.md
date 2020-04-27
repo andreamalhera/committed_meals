@@ -1,11 +1,11 @@
 # Vitality Smoothie
 
-* Cucumber
-* fresh Basil
-* Mango
-* Orange
-* Plant-based joghurt (Soy/Oatmeal)
-* Honey
+* cucumber
+* fresh basil
+* mango
+* orange
+* plant-based joghurt (Soy/Oatmeal)
+* honey
 
 Mix all ingredients in the mixer/smoothie maker with some water. Serve and enjoy!
 
