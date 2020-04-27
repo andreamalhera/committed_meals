@@ -1,11 +1,11 @@
 # Green Machine Smoothie
 
-* Spinach
-* Cucumber
-* Orange
-* Pineapple
-* Mint
-* Dates
+* spinach
+* cucumber
+* orange
+* pineapple
+* mint
+* dates
 
 Mix all ingredients in the mixer/smoothie maker with some water. Serve and enjoy!
 
