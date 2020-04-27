@@ -1,6 +1,6 @@
 # Supersonic Smoothie
 
-* strawberrie
+* strawberries
 * pineapple
 * orange
 * lemon-grass
