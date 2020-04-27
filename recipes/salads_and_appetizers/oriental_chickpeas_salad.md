@@ -1,5 +1,5 @@
 # Oriental Chickpeas Salad with Feta and Grilled Nectarines
-2 people, 25 min preparation time, grill and aluminium foil
+2 people, 25 min preparation time, grill and aluminium foil needed
 
 * 400 g chickpeas
 * 2 nectarine
@@ -17,6 +17,3 @@ Heat up the grill, alternatively preheat the oven to 180 °C circulating air or 
 
 #### Inspired by: 
 * Based on "Orientalischer Kichererbsensalat mit Feta und gegrillter Nektarine" from Kochhaus, Munich
-
-#### Note:
-* Good as part of a salad. 
