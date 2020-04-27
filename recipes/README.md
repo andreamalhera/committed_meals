@@ -8,6 +8,7 @@ These recipes are licensed [Creative Commons Attribution 4.0 International Licen
     * Dressings & vinagrettes
 * [Woks & Pans](woks_and_pans)
 * Soups & Stews
+* [Grill](grill)
 * Sweets 
 
 
