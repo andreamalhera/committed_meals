@@ -12,7 +12,7 @@ Wash and cut lettuce, mix lettuce and rest of the dry ingredients in a bowl. Add
 #### Inspired by: 
 * D&D salads
 
-Pendings:
+#### Pendings:
 TODO: Figure out ingredient measurements
 TODO: Veganize: Find replacement for goat cheese
 TODO: Write dressing recipe
