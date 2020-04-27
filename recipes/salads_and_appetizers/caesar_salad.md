@@ -5,6 +5,7 @@
 * cucumber dices
 * grated grana padano cheese
 * croutons
+* lettuce
 * parmesan lemon dressing
 
 Wash and cut lettuce, mix lettuce and rest of the dry ingredients in a bowl. Add dressing, mix, serve and enjoy fresh!
