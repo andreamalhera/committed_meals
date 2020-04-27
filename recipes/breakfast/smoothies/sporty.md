@@ -3,7 +3,7 @@
 * strawberries
 * banana
 * plant-based joghurt (soy, oatmeal, coconut)
-* lemon-grass
+* honey
 
 Mix all ingredients in the mixer/smoothie maker with some water. Serve and enjoy!
 
