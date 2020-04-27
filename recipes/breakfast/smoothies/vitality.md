@@ -4,7 +4,7 @@
 * fresh basil
 * mango
 * orange
-* plant-based joghurt (Soy/Oatmeal)
+* plant-based joghurt (soy, oatmeal or coconut)
 * honey
 
 Mix all ingredients in the mixer/smoothie maker with some water. Serve and enjoy!
