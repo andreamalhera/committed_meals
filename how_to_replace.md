@@ -11,7 +11,7 @@ This document lists posible replacements for animal products in recipes.
 
 ### Shrimp
 * Vegan shrimp from oyster mushroms TODO: Tryout and add inspired by [this](https://olivesfordinner.com/2017/05/vegan-shrimp.html)
-* Champignions
+* Champignions: Works great for [ceviche](https://github.com/andreamalhera/committed_meals/blob/master/recipes/salads_and_appetizers/ceviche.md) and other salads
 
 ## Dairy
 ### Yoghurt
