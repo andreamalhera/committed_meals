@@ -20,3 +20,4 @@ Roast ingredients, salsa, tomato paste and spices, and puree them. Roast "chicke
 
 #### Notes:
 * For chilaquiles verdes use [salsa verde](https://github.com/andreamalhera/committed_meals/blob/master/recipes/salads_and_appetizers/salsa_verde.md) instead of salsa roja preparation.
+* For breakfast try out sil tofu?  
