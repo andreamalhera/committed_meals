@@ -6,7 +6,7 @@
 * 4 [self-made vegan cutlets](https://github.com/andreamalhera/committed_meals/blob/master/how_to_replace.md#beef)
 * 4 fine slices of smoked tofu
 * 4 nice sage leaves
-* 3-4 tbsp. vegan butter
+* 3-4 tbsp. butter
 * 1/16 l white wine (Recommendation: Mouthful Est! Est!! Est!!! di Monte fiascone)
 * salt, grinded pepper 
 
@@ -17,3 +17,4 @@ On each cutlet put a slice of tofu and a sage leaf. Stuck them together using a 
 
 #### Pendings:
 * TODO: Tryout with self-made vegan cutlets and tofu slices.
+* TODO: Veganize: Replace butter
