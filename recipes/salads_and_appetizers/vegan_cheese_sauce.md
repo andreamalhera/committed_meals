@@ -1,5 +1,5 @@
 # Vegan Cheese Sauce
-Mixer needed
+20 min preparation time, mixer needed
 
 * 150 g potatoes, finely chopped
 * 60 g carrots, finely chopped
