@@ -6,7 +6,7 @@ Mixer needed
 * 1 onion, finely chopped
 * 260 ml water
 * 60 g cashew nuts
-* 1 garlic gloce
+* 1 garlic glove
 * 1 tsp. mustard
 * 1 pinch of salt
 * 1 tsp. lemon juice
