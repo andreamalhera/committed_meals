@@ -4,6 +4,7 @@ This document lists posible replacements for animal products in recipes.
 ## Meat
 ### Beef
 * Seitan: Good replacement for salads and stews
+* [Selfmade seitan steaks](https://cheapandcheerfulcooking.com/vegan-seitan-steaks/)
 
 ### Chicken
 * Wheat filet "à la chicken"
