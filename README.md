@@ -10,6 +10,7 @@ This is a cookbook but also much more. :smile: I want to have the ultimate perso
 * Where to put stories and anectotes?
 * NLP to different languages
 * Think if creating frontend and sepparating recipes makes sense
+* Add chapter about seasonality
 
 ## Inspired by 
 * https://github.com/hadley/recipes

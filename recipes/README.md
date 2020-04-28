@@ -2,12 +2,13 @@
 These recipes are licensed [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
 ## Structure
-* Breakfast
-    * Smoothies
+* [Breakfast](https://github.com/andreamalhera/committed_meals/tree/master/recipes/breakfast)
+    * [Smoothies](https://github.com/andreamalhera/committed_meals/tree/master/recipes/breakfast/smoothies)
 * [Salads & Appetizers](salads_and_appetizers)
-    * Dressings & vinagrettes
+    * [Dressings & vinagrettes](https://github.com/andreamalhera/committed_meals/tree/master/recipes/salads_and_appetizers/dressing_and_vinagrettes)
 * [Woks & Pans](woks_and_pans)
 * Soups & Stews
+* [Grill](grill)
 * Sweets 
 
 
@@ -41,7 +42,10 @@ This should be:
     * Each source is listed here
     
     #### Pendings: (optional)
-    * Each TODO or furhter thought goes here if necessary
+    * Each TODO or further thought goes here if necessary
+    
+    #### Notes: (optional)
+    * Each note goes here if necessary
     ```
     
     You can click `Preview Changes` to check that everything is formatted correctly.
