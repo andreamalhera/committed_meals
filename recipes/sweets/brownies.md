@@ -1,4 +1,4 @@
-# Amazing brownies recipe
+# Amazing Brownies
 approx. 16 pieces (one baking sheet), parchment paper necessary
 
 * 1/2 cup butter
