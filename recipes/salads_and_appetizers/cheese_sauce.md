@@ -1,5 +1,5 @@
 # Vegan Cheese Sauce
-20 min preparation time, mixer needed
+20 min preparation time, mixer needed, vegan
 
 * 150 g potatoes, finely chopped
 * 60 g carrots, finely chopped
@@ -13,6 +13,9 @@
 * 70 g margarine
 
 Cook soft finely chopped potatoes, carrots, onions in 260 ml water. Afterwards add everything from the pot into the mixer. Add rest of ingredients and puree into a creamy mass. Enjoy!
+
+#### Inspired by: 
+* Lisa's [recommendation](https://www.chefkoch.de/rezepte/2767641428688355/Vegane-Mac-n-Cheese-Kaesesauce-auch-zum-Ueberbacken.html)
 
 #### Pending: 
 * TODO: Tryout also: hafersahne, sojamilch, stärke, bisschen kurkuma, muskat, pfeffer, zitronensaft schnell eine art bechamel gekocht
