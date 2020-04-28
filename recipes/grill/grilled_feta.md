@@ -12,4 +12,4 @@ Heat up the grill, alternatively preheat the oven to 180 °C circulating air or 
 * Based on "Orientalischer Kichererbsensalat mit Feta und gegrillter Nektarine" from Kochhaus, Munich
 
 #### Note:
-* Good as part of this [grilled salad](https://github.com/andreamalhera/committed_meals/edit/master/recipes/salads_and_appetizers/oriental_chickpeas_salad.md). For it, sepparate greens and whites, use the greens for the salad, and whites for the grilled feta. Also use 2/3 of the hot pepper for the salad.
+* Good as part of this [grilled nectarine salad](https://github.com/andreamalhera/committed_meals/edit/master/recipes/salads_and_appetizers/oriental_chickpeas_salad.md). For it, sepparate greens and whites, use the greens for the salad, and whites for the grilled feta. Also use 2/3 of the hot pepper for the salad.
