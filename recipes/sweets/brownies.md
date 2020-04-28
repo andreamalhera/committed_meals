@@ -1,4 +1,5 @@
 # Amazing brownies recipe
+ca. 16 pieces (one baking sheet), parchment paper necessary
 
 * 1/2 cup butter
 * 60 g unsweetened chocolate
