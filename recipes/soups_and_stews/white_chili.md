@@ -14,5 +14,5 @@ Cook "chicken" in broth. Cut/shred "chicken" and return to pot. Add beans, salsa
 #### Pending: 
 * Decide on best [chicken replacement](https://github.com/andreamalhera/committed_meals/blob/master/how_to_replace.md#chicken) and document here.
 
-#### Note:
+#### Notes:
 * For further taste add sour cream, striped cheese, nachos (tortilla chips)
