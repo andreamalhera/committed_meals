@@ -11,4 +11,4 @@
 Roast tomatillos, chili, garlic and onions on a pan. Peel garlic. When all other ingredients are goldbrown take them out of the pan. Puree garlic and salt with a fork/mortar. Add chili and puree it aswell. Puree each tomatillo adding one by one. Taste with salt, coriander and lemon juice. Serve and enjoy!
 
 #### Notes: 
-* Perfect for [chilaquiles](https://github.com/andreamalhera/committed_meals/blob/master/recipes/woks_and_pans/chilaquiles.md) and [white chili](https://github.com/andreamalhera/committed_meals/blob/master/recipes/soups_and_stews/white_chili.md)
+* Perfect for [chilaquiles](https://github.com/andreamalhera/committed_meals/blob/master/recipes/breakfast/chilaquiles.md) and [white chili](https://github.com/andreamalhera/committed_meals/blob/master/recipes/soups_and_stews/white_chili.md)
