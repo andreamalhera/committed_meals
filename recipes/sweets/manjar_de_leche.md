@@ -14,3 +14,4 @@ To aromatize cook the cinnamon stick in milk. Mix both condensed milk, egg yolks
 
 #### Pending: 
 * TODO: Veganize: Find replacement for milks and eggs. (Maybe a whole other recipe) 
+* XXX: What to do with the egg whites? 
