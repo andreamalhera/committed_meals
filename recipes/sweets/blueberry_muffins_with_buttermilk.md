@@ -8,7 +8,7 @@
 * 1/4 tsp. rubbed lemon peel
 * 110 g flour
 * 10 g corn starch
-* 1/2 tsp. backing powder
+* 1/2 tsp. baking powder
 * 1/4 tsp. salt
 * 1 pinch of cinammon
 * 125 g blueberries
