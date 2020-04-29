@@ -5,7 +5,7 @@
 * 1 lemon
 * 1/2 tsp. salt
 * 1/2 tsp. caraway
-* 120 g Tahini (unsalted)
+* 120 g tahini, unsalted
 * 1-2 tbsp. olive oil
 * 100 ml very cold water
 
