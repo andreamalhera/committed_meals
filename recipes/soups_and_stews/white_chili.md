@@ -3,7 +3,7 @@
 * 1,5 l vegetable broth
 * 500 g [chicken steaks](https://github.com/andreamalhera/committed_meals/blob/master/how_to_replace.md#chicken)
 * 2 cans of white beans
-* 1 [recipe salsa verde](https://github.com/andreamalhera/committed_meals/blob/master/recipes/salads_and_appetizers/salsa_verde.md)
+* 1 [recipe salsa verde](https://github.com/andreamalhera/committed_meals/blob/master/recipes/salads_and_appetizers/sauces/salsa_verde.md)
 * 2 tsp. caraway
 * 3 avocadoes, diced
 * 1 big onion, finely chopped and roasted
