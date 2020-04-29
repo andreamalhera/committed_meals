@@ -19,5 +19,5 @@ Roast ingredients, salsa, tomato paste and spices, and puree them. Roast "chicke
 * Decide on best [chicken replacement](https://github.com/andreamalhera/committed_meals/blob/master/how_to_replace.md#chicken) and document here.
 
 #### Notes:
-* For chilaquiles verdes use [salsa verde](https://github.com/andreamalhera/committed_meals/blob/master/recipes/salads_and_appetizers/sauces/salsa_verde.md) instead of salsa roja preparation.
-* For breakfast try out sil tofu?  
+* For chilaquiles verdes use [salsa verde](https://github.com/andreamalhera/committed_meals/blob/master/recipes/cold_dishes/sauces_and_dips/salsa_verde.md) instead of salsa roja preparation.
+* For breakfast try out sil tofu?

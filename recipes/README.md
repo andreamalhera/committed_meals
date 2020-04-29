@@ -4,8 +4,10 @@ These recipes are licensed [Creative Commons Attribution 4.0 International Licen
 ## Structure
 * [Breakfast](breakfast)
     * [Smoothies](breakfast/smoothies)
-* [Salads & Appetizers](salads_and_appetizers)
-    * [Dressings & vinagrettes](salads_and_appetizers/dressing_and_vinagrettes)
+* [Cold dishes](cold_dishes)
+    * [Salads](cold_dishes/salads)
+    * [Dressings & vinagrettes](cold_dishes/dressing_and_vinagrettes)
+    * [Sauces & Dips](cold_dishes/sauces_and_dips)
 * [Woks & Pans](woks_and_pans)
 * [Soups & Stews](soups_and_stews)
 * [Grill](grill)
