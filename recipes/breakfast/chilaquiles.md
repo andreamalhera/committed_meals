@@ -2,7 +2,7 @@
 
 * 3 tomatoes, roasted
 * 1/2 onion, chopped and roasted
-  + 1/2 onion, chopped
+* 1/2 onion, chopped
 * 2 garlic clove, chopped and roasted
 * 1 can of salsa
 * 1/5 pkg. fajita seasoning
