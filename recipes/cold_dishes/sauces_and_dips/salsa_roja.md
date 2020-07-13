@@ -1,4 +1,4 @@
-# Salsa de tomate
+# Salsa roja
 10 min preparation time, vegan
 
 * 1 garlic clove, finely chopped
