@@ -10,6 +10,7 @@ These recipes are licensed [Creative Commons Attribution 4.0 International Licen
     * [Sauces & Dips](cold_dishes/sauces_and_dips)
 * [Woks & Pans](woks_and_pans)
 * [Soups & Stews](soups_and_stews)
+* [Oven](oven)
 * [Grill](grill)
 * [Sweets](sweets)
 
