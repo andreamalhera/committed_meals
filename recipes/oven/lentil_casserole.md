@@ -1,4 +1,4 @@
-#Hearty Lentil Casserole
+# Hearty Lentil Casserole
 
 * 1 potatoes (vorw. festk.)
 * 1 sweet potato
@@ -25,8 +25,8 @@ Preheat the oven to 220 ° C top / bottom heat (200 ° C convection). Cut the le
 
 Good Appetite!
 
-####Inspired by: 
+#### Inspired by: 
 * HF Herzhafter Linsenauflauf mit Süßkartoffel, Porree und Käsehaube
 
-####Pending: 
+#### Pending: 
 * Decide on best cheese replacement and document here.
