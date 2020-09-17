@@ -9,14 +9,14 @@
 * leek
 * 200 g soy cooking cream
 * 50 g cheese mix
-* 10 g parsley
+* 2 tsp. parsley
 * 1 carrot
-* 8 g honey
-* 25 ml Soy sauce
+* 2 tsp honey
+* 1.5 tbsp  Soy sauce
 * 1 clove of garlic
 * ½ lettuce
 * ½ washed Lemon
-* 4 g vegetable broth
+* 4 g vegetable broth powder
 * 20 g Sunflower seeds
 * 3 tbsp. grinded nutmeg
 * oil, sugar, salt, pepper
