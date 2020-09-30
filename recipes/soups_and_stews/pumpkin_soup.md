@@ -4,7 +4,7 @@
 * 1 pc finely chopped ginger
 * 1 finely chopped onion
 * 1 can coconut milk
-* 2 tbs red curry paste
+* 1 tbsp red curry paste
 * 500 ml vegetable broth
 * 1 sweet potato finely chopped
 * pumpkin seeds, ginger slices to taste
@@ -14,3 +14,4 @@ Heat up coconut milk cream in a pot. Add onions, ginger and curry paste and fry 
 #### Notes:
 * Great for autumn
 * For two hungry people
+* Spicy
