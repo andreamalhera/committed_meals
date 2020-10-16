@@ -6,7 +6,7 @@
 * 1 tomato cut in eights
 * 2 celery sticks with leaves
 * 15 mint leaves
-For serving
+## For serving
 * rice
 * chopped cilantro
 * sweet corn
