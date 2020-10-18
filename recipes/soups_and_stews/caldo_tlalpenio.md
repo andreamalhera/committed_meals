@@ -14,7 +14,7 @@
 * lime juice
 * salt & pepper
 
-Put all ingredients up to celery and mint in a pot together with 3 lt. water and cook until hardest ingredient is firm to bite. In another pot and pan prepare rice and vegan chicken. Serve all other ingredients in bowls for everybody to mix them into own plate. Enjoy!
+Put all ingredients that are not chicker nor for serving in a pot together with 3 lt. water and cook until hardest ingredient is firm to bite. In another pot and pan prepare rice and vegan chicken. Serve all other ingredients in bowls for everybody to mix them into own plate. Enjoy!
 
 ## Notes:
 * Vegan
