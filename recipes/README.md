@@ -13,6 +13,7 @@ These recipes are licensed [Creative Commons Attribution 4.0 International Licen
 * [Oven](oven)
 * [Grill](grill)
 * [Sweets](sweets)
+* [Spice Mixes](spicemixes)
 
 
 ## Contributing recipes
