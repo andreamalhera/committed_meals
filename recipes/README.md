@@ -90,5 +90,6 @@ This should be:
 * TODO: Add "Goes well with section" 
 * TODO: Add some sort of labels: e.g. {"bowls", \<origin\>, \<ingredient season\>, \<prep duration\>, "good for meal prep", etc.}
 
-## Resources to check out: 
+## Recipe resources to check out: 
 * [Pick-up limes](https://www.pickuplimes.com/recipe-index)
+* [Bianca Zapatka](https://biancazapatka.com/en/tag/savory/)
