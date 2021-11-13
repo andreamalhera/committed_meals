@@ -14,6 +14,7 @@ These recipes are licensed [Creative Commons Attribution 4.0 International Licen
 * [Grill](grill)
 * [Sweets](sweets)
 * [Spice Mixes](spicemixes)
+* [Meat Replacements](no_meat)
 
 
 ## Contributing recipes
