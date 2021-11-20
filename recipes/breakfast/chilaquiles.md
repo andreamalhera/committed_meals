@@ -3,11 +3,11 @@
 * 3 tomatoes, roasted
 * 1/2 onion, chopped and roasted
 * 1/2 onion, chopped
-* 2 garlic clove, chopped and roasted
+* 2 garlic cloves, chopped and roasted
 * 1 can of salsa
 * 1/5 pkg. fajita seasoning
 * 250 g nachos (tortilla chips)
-* 400 g [chicken steaks](https://github.com/andreamalhera/committed_meals/blob/master/how_to_replace.md#chicken), striped
+* 400 g [vegan fake chicken stripes](https://github.com/andreamalhera/committed_meals/blob/master/how_to_replace.md#chicken), striped
 * 1/2 pkg. tomato paste
 * 4 tbsp. yoghurt
 * coriander to taste, chopped
