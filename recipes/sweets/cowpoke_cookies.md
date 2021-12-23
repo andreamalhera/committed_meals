@@ -9,7 +9,7 @@ approx. 25 big cookies, parchment paper necessary
 * 50 g planed almonds
 * 128 cup brown sugar
 * 8 g vanilla sugar
-* 2 eggs
+* 2 tbsp. Linseeds mixed with 6 tbsp. hot water
 * 150 g melted butter
 * 128 g chocolate lentils (e.g. M&Ms)
 
