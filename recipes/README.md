@@ -1,5 +1,5 @@
 ## License
-These recipes are licensed [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+Own recipes are licensed [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) other adapted recipes are referenced in notes or "inspired by". Feel free to contribute and reach out! Specially if you have some nice pics of the recipes you try out!
 
 ## Structure
 * [Breakfast](breakfast)
