@@ -37,7 +37,7 @@ Add red wine, 600 ml water, 1.5 tbsp vegetable broth powder and 1 tbsp mustard t
 Cover and bring to a boil. Then simmer for 30 minutes at low heat. Stir occasionally and add water to desired consistency. Add spices and season to taste with salt and pepper. 
 
 Serve and enjoy!
-![FFDB6F26-31BE-49FF-BB7F-D35B48DF856C](https://user-images.githubusercontent.com/23620851/171142253-ce4754aa-1574-411b-964d-67dcd474c051.JPG)
+![225F8BAA-2C11-4746-AAB4-7276E0BC3C74](https://user-images.githubusercontent.com/23620851/171143506-14303281-d553-451d-a937-63c842f1adbe.JPG)
 
 
 #### Notes: 
