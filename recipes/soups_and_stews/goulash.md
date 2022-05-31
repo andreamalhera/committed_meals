@@ -40,9 +40,9 @@ Serve and enjoy!
 ![FFDB6F26-31BE-49FF-BB7F-D35B48DF856C](https://user-images.githubusercontent.com/23620851/171142253-ce4754aa-1574-411b-964d-67dcd474c051.JPG)
 
 
-## Notes: 
+#### Notes: 
 * 4 portions
 * goes well with noodles
 
-## Inspired by:
+#### Inspired by:
 * Veggie Einhorn
