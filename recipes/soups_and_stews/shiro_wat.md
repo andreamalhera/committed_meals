@@ -11,6 +11,7 @@
 * Salt to taste
 * 2 green chili peppers (sliced, optional)
 
+Instructions
 1. Place the onions in a dry saucepan with a pinch of salt. Sauté over medium heat until they start to brown, adding water as needed.
 2. Add 2 tablespoons of niter kibbeh and cook the onions until soft and brown, stirring frequently.
 3. Add garlic and sauté for a couple of minutes.
