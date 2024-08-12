@@ -11,7 +11,7 @@
 * Salt to taste
 * 2 green chili peppers (sliced, optional)
 
-Instructions
+## Instructions
 1. Place the onions in a dry saucepan with a pinch of salt. Sauté over medium heat until they start to brown, adding water as needed.
 2. Add 2 tablespoons of niter kibbeh and cook the onions until soft and brown, stirring frequently.
 3. Add garlic and sauté for a couple of minutes.
@@ -21,9 +21,7 @@ Instructions
 7. Bring to a boil, reduce heat, cover, and cook for 10-15 minutes until thickened.
 8. Garnish with sliced green chili peppers, if desired.
 
-#### Notes:
-* Pairs well with injera
-
 ## Notes
+* Pairs well with injera
 * Inspired by [The Gourmet Gourmand](https://thegourmetgourmand.com/ethiopian-shiro-wat/)
 * Inspired by [Holy Cow Vegan](https://holycowvegan.net/ethiopian-shiro-wot-ground-chickpea-stew/#recipe)
